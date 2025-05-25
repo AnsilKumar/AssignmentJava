@@ -1,3 +1,3 @@
-#Assignment outputs
+# Assignment outputs
 
-#arraylistoutput: https://github.com/AnsilKumar/AssignmentJava/blob/main/1a/arrayList.png
+# arraylistoutput: https://github.com/AnsilKumar/AssignmentJava/blob/main/1a/arrayList.png
