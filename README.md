@@ -58,4 +58,4 @@
 9boutputlink:https://github.com/AnsilKumar/AssignmentJava/blob/main/9b/9boutput.png 
 9coutputlink:https://github.com/AnsilKumar/AssignmentJava/blob/main/9c/9coutput.png 
 9d1outputlink:https://github.com/AnsilKumar/AssignmentJava/blob/main/9d/9d1output.png 
-9d2outputlink: https://github.com/AnsilKumar/AssignmentJava/blob/main/9d/9d2output.png
+9d2outputlink:https://github.com/AnsilKumar/AssignmentJava/blob/main/9d/9d2output.png
